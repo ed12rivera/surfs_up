@@ -10,7 +10,8 @@ The analysis on weather in Hawaii will assist in determining how viable the prop
 - The most significant difference between the two months is the minimum temperature.  June has only gone down to 64°, but December has gone down to 56°.  It is an important figure because at that point the temperature is a deterrent for both surfing and ice cream and will affect the business.
 - The next difference is also in the lower ranges of temperatures.  The first quartile is at very comfortable 73° in June but only goes up to 69° in December.  These lower temperatures are crucial to see because they will affect the business the most.  
 - December has a larger range of temperatures and a slightly higher standard deviation.  This tells us temperatures in December fluctuate more than they do in June, and it will be important to keep in mind temperatures in December are less consistent.
-<img src="Summary_statistics/June_temps.png" width="200" height="300"/>  <img src="Summary_statistics/December_temps.png" width="200" height="300"/>
+
+<img src="Summary_statistics/June_temps.PNG" width="200" height="300"/>  <img src="Summary_statistics/December_temps.PNG" width="200" height="300"/>
 
    
 
