@@ -4,7 +4,7 @@ An analysis of weather patterns in Hawaii as part of the investigatory process b
 ### Purpose
 The analysis on weather in Hawaii will assist in determining how viable the proposed business will be.  We hope to determine how favorable the weather is for the type of business we hope to open and present this information to potential investors.  The analysis should calm any possible doubts about the potential success of the business due to unfavorable weather.
 ## Resources
--	Data Source: Hawaii.sqlite
+-	Data Source: hawaii.sqlite
 -	Software: Python 3.7, Jupyter Notebook v. 6.1.4, SQLite v. 3.27.2
 ## Results
 - The most significant difference between the two months is the minimum temperature.  June has only gone down to 64°, but December has gone down to 56°.  It is an important figure because at that point the temperature is a deterrent for both surfing and ice cream and will affect the business.
